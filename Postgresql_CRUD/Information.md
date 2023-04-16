@@ -1,0 +1,1 @@
+Burda postgresql data işlemleri yaptık

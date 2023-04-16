@@ -1,0 +1,4 @@
+github.com/go-sql-driver/sphinxql v0.0.0-20130306205020-c8c1b070d697 h1:GH1WGwbLgd4yqQ3RMi1ltbnviZtPa4MmsBOxmZ9dP14=
+github.com/go-sql-driver/sphinxql v0.0.0-20130306205020-c8c1b070d697/go.mod h1:VvuSFWpKdPMqLSoYrfpd0Pdcv/ryq2ch8J144XzTEA4=
+github.com/lib/pq v1.10.7 h1:p7ZhMD+KsSRozJr34udlUrhboJwWAgCg34+/ZZNvZZw=
+github.com/lib/pq v1.10.7/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
